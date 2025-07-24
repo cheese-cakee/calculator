@@ -3,7 +3,7 @@
 Cheesecake Calculator is a fun, interactive, and beautifully designed web-based calculator — made with vanilla HTML, CSS, and JavaScript. It includes playful UI animations, emoji mood changes, keyboard support, and a sweet visual theme.
 
 <p align="center">
-  <img src="https://github.com/cheese-cakee/calculator/blob/9a9aa7a4263f3a3b701b65b5561f37616b6540d7/calpreview.png" alt="Cheesecake Calculator Preview" width="500">
+  <img src="https://github.com/cheese-cakee/calculator/blob/9a9aa7a4263f3a3b701b65b5561f37616b6540d7/calpreview.png" alt="Cheesecake Calculator Preview" width="800">
 </p>
 
 ## 🎯 Features
