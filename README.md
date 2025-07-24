@@ -21,7 +21,7 @@ Cheesecake Calculator is a fun, interactive, and beautifully designed web-based 
 
 ## 🚀 Live Demo
 
-> 🔗 [Try the Cheesecake Calculator Live](https://your-username.github.io/cheesecake-calculator/)
+> 🔗 [Try the Cheesecake Calculator Live](https://cheese-cakee.github.io/calculator/)
 
 ---
 
